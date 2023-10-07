@@ -27,6 +27,6 @@ class SLNode():
         self.next = None
 
 my_list = SList()
-# my_list.add_to_front(10,9,8,7,6,5,4,3,2,1)
-my_list.add_to_front(3).add_to_front(2).add_to_front(1)
+my_list.add_to_front(10,9,8,7,6,5,4,3,2,1)
+# my_list.add_to_front(3).add_to_front(2).add_to_front
 my_list.display_vals()
